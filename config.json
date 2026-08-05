@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algoritmos-estruturas-dados",
+      "title": "Algoritmos e Estruturas de Dados",
+      "description": "Pratique raciocínio algorítmico com listas, pilhas e filas em Python.",
+      "path": "assignments/algoritmos-estruturas-dados",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
